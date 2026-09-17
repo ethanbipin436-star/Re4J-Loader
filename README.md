@@ -1,6 +1,6 @@
 # Re4J Mod Loader
 
-Hi, this is a beta-phase mod loader made by this 11 year old, J- I mean EthanBipin436-Star (Wow, what a dumb name!).
+Hi, this is a beta-phase mod loader made by this 11 year old, J- I mean EthanBipin436-Star\ The Ambusher (Wow, what a dumb name!).
 
 The mods can be made by using Python. The Re4J Guide will be noted below. An example mod made for testing is included. It will probably fail, because this mod was meant for testing when I was not allowed to game.
 
